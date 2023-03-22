@@ -9,6 +9,7 @@ public class Program
       // HalfAFizzBuzz.Run();
       // FizzBuzz.Run();
       // Fibonacci.Run();
-      Factorial.Run();
+      // Factorial.Run();
+      PerfectSquares.Run();
    }
 }
