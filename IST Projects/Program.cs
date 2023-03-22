@@ -8,5 +8,6 @@ public class Program
       // Prime_Number_Calculator.Run();
       // HalfAFizzBuzz.Run();
       // FizzBuzz.Run();
+      Fibonacci.Run();
    }
 }
