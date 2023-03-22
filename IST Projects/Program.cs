@@ -6,5 +6,7 @@ public class Program
    {
       // UserInput.Run();
       // Prime_Number_Calculator.Run();
+      // HalfAFizzBuzz.Run();
+      // FizzBuzz.Run();
    }
 }
