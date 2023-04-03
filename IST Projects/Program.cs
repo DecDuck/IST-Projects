@@ -10,6 +10,7 @@ public class Program
       // FizzBuzz.Run();
       // Fibonacci.Run();
       // Factorial.Run();
-      PerfectSquares.Run();
+      // PerfectSquares.Run();
+      RandomNumberGame.Run();
    }
 }

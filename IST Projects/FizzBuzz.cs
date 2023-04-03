@@ -9,14 +9,7 @@ public class FizzBuzz
             bool fizzed = i % 3 == 0;
             if (i % 5 == 0)
             {
-                if (fizzed)
-                {
-                    Console.WriteLine("FizzBuzz!");
-                }
-                else
-                {
-                    Console.WriteLine("Buzz");
-                }
+                Console.WriteLine(fizzed ? "FizzBuzz!" : "Buzz");
             }
             else if (fizzed)
             {
